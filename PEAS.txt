@@ -1,0 +1,7 @@
+Agent Type      | Performance Measures      | Environment   |     Actuators      | Sensors 
+--------------------------------------------------------------------------------------------
+Product         | How closely recommended   |  Internet     | Provide suggestions| AI Model
+Recommendation  | products are to the given |               | for items that are | Input entry
+                | product                   |               | most pertinent to  |
+                                                              a particular user  |
+---------------------------------------------------------------------------------------------
