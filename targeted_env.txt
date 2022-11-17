@@ -1,0 +1,4 @@
+1. pip install tensorflow
+2. install jupyter notebook
+3. data set
+4. browser
