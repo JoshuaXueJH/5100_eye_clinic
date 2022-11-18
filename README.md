@@ -1,12 +1,9 @@
-# 5100_prod_recommendation system
+## Project Progress
 
-Product Recommendations is a subclass of information filtering system that provide suggestions for items that are most pertinent to a particular user.
-
-Recommender Systems can be broadly classified into 3 types
-1. Collaborative Filtering
-2. Content-Based Filtering
-3. Hybrid
-
-Our project will demonstrate the Content-Based filtering, which are based on the description of an item and a profile of the user’s preferred choices. 
-
-In plain words, the algorithms try to recommend products that are similar to the ones that a user has liked in the past.
+#1. Code Progress (70%)
+#2. Data Preparation (90%)
+Note: As we need to train the model, we need a lot of training data, we have collected 20G image data for model training. 
+#3. User Instruction (60%)
+#4. Model Building & Testing (20%)
+Note: At the begining of the project, we underestimated the time to train the Model with 20G data, so that the building & testing is going very slowly now.
+#5. Presentation (10%)
